@@ -9,6 +9,7 @@ Logs For Summer Holiday in Lab305
 - 最后 pull request
 
 ### 说明
+- 每周要求至少两次小结
 - 有新提交的内容，整理后会按时间流列在下文，方便大家都清楚项目的进度。
 
 --
