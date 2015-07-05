@@ -15,7 +15,7 @@ Logs For Summer Holiday in Lab305
 --
 ### 7月5日 
 
-+ zjfsharp
++ zjfsharp 项目分析
   + Task
     - 完成的任务：学习github基本的使用，包括create a Repository,create branch,pull Request等
     - 未完成的任务：还不能熟练使用github，比如edit new file页面的edit区域的字体怎么改变，好像intent size没起作用嘛；比如不知道merge pull request怎么用。当然还有好多不懂的
